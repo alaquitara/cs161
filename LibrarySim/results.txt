@@ -1,0 +1,5 @@
+Test 3 failed.
+Test 4 failed.
+Test 5 failed.
+
+Total score: 20
